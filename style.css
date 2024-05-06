@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  /* font: helvetica; */
+}
+
+body {
+  margin: 0;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  display: block;
+}
